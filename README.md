@@ -2,7 +2,7 @@
 
 ## AD (Right Atria)
 
-Below you can view the Von Mises surfaces for each node:
+Below you can view the anomalies detected for each signal:
 
 <a href="https://rawcdn.githack.com/xavierMarimon/CrownMaterials/5018ea3ee3ee080a0379f45af86e7f096ed938e4/ECnode.html" target="_blank">EC node</a>
 
@@ -21,4 +21,6 @@ Below you can view the Von Mises surfaces for each node:
 <a href="https://rawcdn.githack.com/xavierMarimon/CrownMaterials/5018ea3ee3ee080a0379f45af86e7f096ed938e4/Apnode.html " target="_blank">Ap node</a>
 
 ## AI (Left Atria)
+
+Below you can view the anomalies detected for each signal:
 
